@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+change 2 + branch + 1
+=======
+change 2+branch2
+>>>>>>> branchtest2
